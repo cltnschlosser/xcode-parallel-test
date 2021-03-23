@@ -1,0 +1,3 @@
+destinations:
+  - "platform=iOS Simulator,name=iPhone 11"
+  - "platform=iOS Simulator,name=iPhone 11 Pro"
